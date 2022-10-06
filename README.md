@@ -19,8 +19,8 @@ You are required to create a page that will have a table with different entries.
 The form should contain the following form items:
 
 * Username (type: input | mandatory: yes | pattern: yes, lowercase letter, uppercase letters, !@#, and numbers | rules: min char: 4, max char: 80 | validation: yes)
-* First name (type: input | mandatory: yes | pattern: yes, lowercase letter, uppercase letters and ' | rules: min char: 4, max char: 80 | validation: yes)
-* Last name (type: input | mandatory: yes | pattern: yes, lowercase letter, uppercase letters and ' | rules: min char: 4, max char: 80 | validation: yes)
+* First name (type: input | mandatory: yes | pattern: yes, lowercase letter, uppercase letters and ' | rules: min char: 2, max char: 80 | validation: yes)
+* Last name (type: input | mandatory: yes | pattern: yes, lowercase letter, uppercase letters and ' | rules: min char: 2, max char: 80 | validation: yes)
 * Gender (type: Switch | mandatory: no)
 * Date of birth (type: date picker | mandatory: yes | rules: only dates that are 18 years ago or more from current date | validation: yes)
 * Address (type: input | mandatory: no)
@@ -33,7 +33,7 @@ The form should contain the following form items:
 
 All the entries will be kept on localstorage or in a state management
 
-Give github users `mirceaKA|cr8or1` access to your fork.
+Give github users `mirceaKA|cr8or1|tadrian88` access to your fork.
 Feel free to ask questions as you go if anything is unclear, confusing, or just plain missing.
 
 # Extra Credit
