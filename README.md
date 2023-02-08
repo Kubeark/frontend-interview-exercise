@@ -3,7 +3,7 @@
 
 # Goal
 
-Create a React JS application using webhooks that will have the following frameworks/npm packages: NextJS, AntD, Recoil and SAAS.
+Create a React JS application using react hooks that will have the following frameworks/npm packages: NextJS, AntD, Recoil and SASS (SCSS).
 
 # The Task
 
