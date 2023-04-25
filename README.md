@@ -11,7 +11,7 @@ You are required to create a page that will have a table with different entries.
 
 * contain a way to add new entries
 * contain a way to edit or delete entries
-* adding a new entry it should be done through a form
+* adding a new entry should be done through a form
 
 
 # Mandatory Work
@@ -26,14 +26,14 @@ The form should contain the following form items:
 * Address (type: input | mandatory: no)
 * City (type: input | mandatory: no)
 * Register to newsletter (type: Checkbox | mandatory: no)
-* Country (type: dropdown | mandatory: no | rules: add a max 10 EU countries)
+* Country (type: dropdown | mandatory: no)
 * Phone (type: input | mandatory: no | rules: country code, phone number)
 * Details (type: textarea | mandatory: no)
 * Hobbies (type: textarea | mandatory: no)
 
 All the entries will be kept on localstorage or in a state management
 
-Give github users `mirceaKA|cr8or1|tadrian88` access to your fork.
+Give github users `mirceaKA|cr8or1|Kurounin` access to your fork.
 Feel free to ask questions as you go if anything is unclear, confusing, or just plain missing.
 
 # Extra Credit
