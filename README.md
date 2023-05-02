@@ -7,40 +7,39 @@ Create a React JS application using react hooks that will have the following fra
 
 # The Task
 
-You are required to create a page that will have a table with different entries. It must:
-
-* contain a way to add new entries
-* contain a way to edit or delete entries
-* adding a new entry should be done through a form
+As an assignment, your task is to design a webpage with a table consisting of various entries. 
+The page must provide options to add new entries, edit or delete existing entries. 
+Moreover, for adding a new entry, the page should include a form to fill in the required details.
 
 
 # Mandatory Work
 
-The form should contain the following form items:
+The items required in the form are as follows:
 
-* Username (type: input | mandatory: yes | pattern: yes, lowercase letters, uppercase letters, !@#, and numbers | rules: min char: 4, max char: 80 | validation: yes)
-* First name (type: input | mandatory: yes | pattern: yes, lowercase letters, uppercase letters and ' | rules: min char: 2, max char: 80 | validation: yes)
-* Last name (type: input | mandatory: yes | pattern: yes, lowercase letters, uppercase letters and ' | rules: min char: 2, max char: 80 | validation: yes)
-* Gender (type: Switch | mandatory: no)
-* Date of birth (type: date picker | mandatory: yes | rules: only dates that are 18 years ago or more from current date | validation: yes)
-* Address (type: input | mandatory: no)
-* City (type: input | mandatory: no)
-* Register to newsletter (type: Checkbox | mandatory: no)
-* Country (type: dropdown | mandatory: no)
-* Phone (type: input | mandatory: no | rules: country code, phone number)
-* Details (type: textarea | mandatory: no)
-* Hobbies (type: textarea | mandatory: no)
+ - Username (Input type, required field, pattern must include lowercase letters, uppercase letters, !@#, and numbers, with a character limit of 4 to 80, and validation must be enabled)
+- First name (Input type, required field, pattern must include lowercase letters, uppercase letters, and ' , with a character limit of 2 to 80, and validation must be enabled)
+- Last name (Input type, required field, pattern must include lowercase letters, uppercase letters, and ' with a character limit of 2 to 80, and validation must be enabled)
+- Gender (Switch type, not mandatory)
+- Date of birth (Date picker type, required field, only accepts dates that are 18 years ago or more from the current date, and validation must be enabled)
+- Address (Input type, not mandatory)
+- City (Input type, not mandatory)
+- Register to newsletter (Checkbox type, not mandatory)
+- Country (Dropdown type, not mandatory)
+- Phone (Input type, not mandatory, must include country code and phone number)
+- Details (Textarea type, not mandatory)
+- Hobbies (Textarea type, not mandatory)
 
-All the entries will be kept on localstorage or in a state management
+ All entries will be stored either on local storage or in a state management system.
 
 Give github users `mirceaKA|cr8or1|Kurounin` access to your fork.
 Feel free to ask questions as you go if anything is unclear, confusing, or just plain missing.
 
 # Extra Credit
 
-Add by default some entries by using a JSON Mockup or another way.
-The table should have the following:
- * visible columns: Index, Username, Gender, Date of Birth, City, Newsletter, Country, Phone, Hobbies
- * sorting: Username, Gender, Date of Birth, City, Country
- * filter: Username, Gender, City, Country, Phone, Hobbies
+To begin with, some entries should be added by default using a JSON Mockup or any other relevant method. 
+
+The table should consist of the following: 
+- Visible columns: The table must display the columns in the following order: Index, Username, Gender, Date of Birth, City, Newsletter, Country, Phone, and Hobbies. 
+- Sorting: It should be possible to sort the data in the table based on Username, Gender, Date of Birth, City, and Country columns. 
+- Filter: The table should offer the ability to filter data based on Username, Gender, City, Country, Phone, and Hobbies.
 
