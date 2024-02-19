@@ -1,4 +1,4 @@
-# frontend-interview-exercise
+# Frontend-interview-exercise
 
 
 # Goal
@@ -16,7 +16,7 @@ Moreover, for adding a new entry, the page should include a form to fill in the 
 
 The items required in the form are as follows:
 
- - Username (Input type, required field, pattern must include lowercase letters, uppercase letters, !@#, and numbers, with a character limit of 4 to 80, and validation must be enabled)
+- Username (Input type, required field, pattern must include lowercase letters, uppercase letters, !@#, and numbers, with a character limit of 4 to 80, and validation must be enabled)
 - First name (Input type, required field, pattern must include lowercase letters, uppercase letters, and ' , with a character limit of 2 to 80, and validation must be enabled)
 - Last name (Input type, required field, pattern must include lowercase letters, uppercase letters, and ' with a character limit of 2 to 80, and validation must be enabled)
 - Gender (Switch type, not mandatory)
@@ -31,7 +31,7 @@ The items required in the form are as follows:
 
  All entries will be stored either on local storage or in a state management system.
 
-Give github users `mirceaKA|cr8or1|Kurounin` access to your fork.
+Give github users `cr8or1 and Kurounin` access to your fork.
 Feel free to ask questions as you go if anything is unclear, confusing, or just plain missing.
 
 # Extra Credit
