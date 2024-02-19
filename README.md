@@ -1,4 +1,4 @@
-# Frontend-interview-exercise
+# Frontend interview exercise
 
 
 # Goal
@@ -31,7 +31,7 @@ The items required in the form are as follows:
 
  All entries will be stored either on local storage or in a state management system.
 
-Give github users `cr8or1 and Kurounin` access to your fork.
+Give github users `cr8or1 | Kurounin | SeekerS11` access to your fork.
 Feel free to ask questions as you go if anything is unclear, confusing, or just plain missing.
 
 # Extra Credit
